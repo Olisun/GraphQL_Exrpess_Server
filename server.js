@@ -1,7 +1,8 @@
 // setting up express server
-import express from 'express';
-import expressGraphQL from 'express-graphql';
-import schema from './schema';
+const express = require('express');
+const expressGraphQL = require('express-graphql');
+const schema = require('./schema');
+
 
 const app = express();
 
