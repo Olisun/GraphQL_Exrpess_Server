@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "age": 4,
+      "id": "2",
+      "name": "This",
+      "email": "olisun@mac.com"
+    },
+    {
+      "id": "3",
+      "name": "Crazy Kitty",
+      "age": 24,
+      "email": "crazy@mac.com"
+    },
+    {
+      "name": "Tony Stark",
+      "email": "ironman@avengers.com",
+      "age": 34,
+      "id": "e09LNqB"
+    }
+  ]
+}
