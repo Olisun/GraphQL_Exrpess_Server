@@ -18,6 +18,16 @@ const CustomerType = new GraphQLObjectType({
     name: { type: GraphQLString },
     email: { type: GraphQLString },
     age: { type: GraphQLInt },
+    address: { type: AddressType }
+  })
+});
+
+// Address Type
+const AddressType = new GraphQLObjectType({
+  name: 'Address',
+  fields: () => ({
+    street: { type: GraphQLString },
+    city: { type: GraphQLString }
   })
 });
 

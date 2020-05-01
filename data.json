@@ -4,19 +4,31 @@
       "age": 4,
       "id": "2",
       "name": "This",
-      "email": "olisun@mac.com"
+      "email": "olisun@mac.com",
+      "address": {
+        "street": "260 Clara",
+        "city": "San Francisco"
+      }
     },
     {
       "id": "3",
       "name": "Crazy Kitty",
       "age": 24,
-      "email": "crazy@mac.com"
+      "email": "crazy@mac.com",
+      "address": {
+        "street": "260 Clara",
+        "city": "San Francisco"
+      }
     },
     {
       "name": "Tony Stark",
       "email": "ironman@avengers.com",
       "age": 34,
-      "id": "e09LNqB"
+      "id": "e09LNqB",
+      "address": {
+        "street": "260 Clara",
+        "city": "San Francisco"
+      }
     }
   ]
 }
